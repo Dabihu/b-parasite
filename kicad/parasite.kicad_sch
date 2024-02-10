@@ -1050,7 +1050,6 @@
     )
   )
 
-
   (junction (at 83.82 115.57) (diameter 0) (color 0 0 0 0)
     (uuid 1147a678-c6e1-471b-8387-f2d29ea2d0d4)
   )
@@ -2583,7 +2582,7 @@
     (property "Value" "Q_Photo_NPN" (at 215.646 124.333 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "snapeda:TR8" (at 215.9 120.65 0)
+    (property "Footprint" "LED_SMD:LED_0805_2012Metric" (at 215.9 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/lcsc/1806131537_Everlight-Elec-ALS-PT19-315C-L177-TR8_C146233.pdf" (at 210.82 123.19 0)
